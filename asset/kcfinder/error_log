@@ -1,0 +1,22 @@
+[22-Apr-2023 12:56:15 UTC] PHP Warning:  include(/../../index.php): failed to open stream: No such file or directory in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php on line 19
+[22-Apr-2023 12:56:15 UTC] PHP Warning:  include(/../../index.php): failed to open stream: No such file or directory in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php on line 19
+[22-Apr-2023 12:56:15 UTC] PHP Warning:  include(): Failed opening '/../../index.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php on line 19
+[22-Apr-2023 12:56:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_instance() in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php:21
+Stack trace:
+#0 /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/core/class/uploader.php(111): require()
+#1 /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/core/class/browser.php(23): kcfinder\uploader->__construct()
+#2 /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/browse.php(17): kcfinder\browser->__construct()
+#3 /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/index.php(3): require('/home/pgrijati/...')
+#4 {main}
+  thrown in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php on line 21
+[22-Apr-2023 13:35:20 UTC] PHP Warning:  include(/../../index.php): failed to open stream: No such file or directory in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php on line 19
+[22-Apr-2023 13:35:20 UTC] PHP Warning:  include(/../../index.php): failed to open stream: No such file or directory in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php on line 19
+[22-Apr-2023 13:35:20 UTC] PHP Warning:  include(): Failed opening '/../../index.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php on line 19
+[22-Apr-2023 13:35:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_instance() in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php:21
+Stack trace:
+#0 /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/core/class/uploader.php(111): require()
+#1 /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/core/class/browser.php(23): kcfinder\uploader->__construct()
+#2 /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/browse.php(17): kcfinder\browser->__construct()
+#3 /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/index.php(3): require('/home/pgrijati/...')
+#4 {main}
+  thrown in /home/pgrijati/public_html/pendmasurabaya.site/asset/kcfinder/conf/config.php on line 21

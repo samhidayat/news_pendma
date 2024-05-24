@@ -1,0 +1,15 @@
+[30-Apr-2023 12:28:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/koneksi.php on line 7
+[30-Apr-2023 12:28:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 40
+[30-Apr-2023 12:28:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 43
+[30-Apr-2023 12:28:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 44
+[30-Apr-2023 12:28:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 47
+[30-Apr-2023 12:28:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 65
+[30-Apr-2023 12:28:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/koneksi.php on line 7
+[30-Apr-2023 12:28:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 40
+[30-Apr-2023 12:28:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 43
+[30-Apr-2023 12:28:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 44
+[30-Apr-2023 12:28:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 47
+[30-Apr-2023 12:28:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 65
+[30-Apr-2023 12:30:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 41
+[30-Apr-2023 12:30:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 44
+[30-Apr-2023 12:30:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/pgrijati/public_html/pendmasurabaya.site/informasi3/view.php on line 62
